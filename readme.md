@@ -1,7 +1,7 @@
 #
 ### Used libraries
-- [less]("https://lesscss.org/")
-- [jQuery]("https://jquery.com/")
+- [less](https://lesscss.org/)
+- [jQuery](https://jquery.com/)
 
 ### Used Fonts:
-- [roboto]("https://fonts.google.com/specimen/Roboto#standard-styles")
+- [roboto](https://fonts.google.com/specimen/Roboto#standard-styles)
